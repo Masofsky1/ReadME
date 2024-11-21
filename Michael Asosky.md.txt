@@ -1,0 +1,26 @@
+My name is Michael Asofsky. My experience as a Business Intelligence Analyst with a background in
+Operations and Data Analysis, has prepared me for a role in the Analytics world.
+
+My experience includes:
+Time as an Associate Director with Legacy Group Enterprises I was responsible for measuring and tracking
+KPI’s regarding internal performance to make decisions on servicing external clients. Using data
+pulled from our software into Excel, I analyzed the volume of work distributed amongst teams in
+order to determine workload where resource allocation was needed. In addition, I utilized this
+data to pick up on trends showing if incoming work was maintaining, increasing or decreasing in
+volume. From these insights I put in action plans to grow accounts with decreasing volume into
+stabilized profitable accounts.
+
+My formal training in analytics was completed with TripleTen. I learned how to make detailed visualizations and relay the
+data into meaningful materials. The course includes using various software such as, Google
+Sheets, Excel, Tableau, PowerBI and SQL. All of these different softwares have data storage
+and analyzation capabilities but have different methods and focuses within the world. My having
+familiarity with all of them positions me as a valuable asset to have to manage data functions.
+
+I have worked on the following six project during my time with TripleTen.
+1. NYC Airbnb analysis using advanced spreadsheet techniques on Excel
+2. Zuber analysis using SQL
+3. Business Analysis using Google Spreadsheets 
+4. Saving Superstore Data Visualization with Tableau
+5. Storytelling with Data using Tableau Dashboards
+6. Shopify Data Analysis with PowerBI
+7. Zomato Customer Segmentation Analysis with PowerBI
